@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rock-32&hide=contribs,prs)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rock-32&show_icons=true&theme=transparent)
 <!--
 **rock-32/rock-32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
