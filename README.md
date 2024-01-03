@@ -1,16 +1,13 @@
-### *Hello there* 👋
+### *Hello there..it's me Shaan.* 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rock-32&show_icons=true&theme=transparent)
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="Description of the SVG image">
-
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,react,redux,js,html,css,bootstrap)](https://skillicons.dev)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rock-32&show_icons=true&theme=transparent)   
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="Description of the SVG image">   
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,react,redux,js,html,css,bootstrap)](https://skillicons.dev)   
+![Description of the Image](https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966)   
 <!--
 **rock-32/rock-32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
