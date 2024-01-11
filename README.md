@@ -1,9 +1,8 @@
 ## *Hi..it's me Shaan.* 👋  
 
 <div align="center"> 
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rock-32&theme=dark)](https://git.io/streak-stats)
-
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rock-32&theme=chartreuse-dark)](https://git.io/streak-stats)
 </div>
 <div align="center">  
   
