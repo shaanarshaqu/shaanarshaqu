@@ -14,7 +14,7 @@
 </div>
 
 
-  <img src="https://github.com/rock-32/ReadmeEdit/github-contribution-grid-snake-dark.svg"/>   
+  <img src="https://github.com/rock-32/rock-32/github-contribution-grid-snake-dark.svg"/>   
 
 <div align="center">
   
