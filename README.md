@@ -14,7 +14,7 @@
 </div>
 
 
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />   
+  <img src="https://github.com/rock-32/ReadmeEdit/github-contribution-grid-snake-dark.svg"/>   
 
 <div align="center">
   
