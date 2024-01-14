@@ -14,7 +14,9 @@
 </div>
 
 
-  <img src="https://github.com/rock-32/rock-32/github-contribution-grid-snake-dark.svg"/>   
+![SVG Image](https://raw.githubusercontent.com/rock-32/rock-32/main/github-contribution-grid-snake-dark.svg)
+
+
 
 <div align="center">
   
