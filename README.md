@@ -24,7 +24,7 @@
 </div>
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,react,redux,js,html,css,bootstrap)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,react,redux,js,html,css,bootstrap)](https://www.microsoft.com/en-in/download/details.aspx?id=30653)
   
 </div>
 
