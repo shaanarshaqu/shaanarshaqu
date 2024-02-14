@@ -13,7 +13,7 @@
 </div>
 
 
-<!-- ![SVG Image](https://raw.githubusercontent.com/rock-32/rock-32/main/github-contribution-grid-snake-dark.svg) -->
+ ![SVG Image](https://raw.githubusercontent.com/rock-32/rock-32/main/github-contribution-grid-snake-dark.svg) 
 
 
 
