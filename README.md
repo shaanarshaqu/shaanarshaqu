@@ -12,23 +12,24 @@
 
 </div>
 
-
+<!--
 ![Cool GIF](https://github.com/rock-32/rock-32/raw/main/AutoPlay.gif)
+-->
 
 
-
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rock-32&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
 <div align="center">
   
   [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,react,redux,js,html,css,bootstrap)](https://www.microsoft.com/en-in/download/details.aspx?id=30653)
   
 </div>
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rock-32&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
-   
+
+   ![Footer](https://github.com/rock-32/rock-32/raw/main/footer.svg)
 
 
 <!--
