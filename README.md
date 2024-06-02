@@ -12,9 +12,9 @@
 
 </div>
 
-<!--
+
 ![Cool GIF](https://github.com/rock-32/rock-32/raw/main/AutoPlay.gif)
--->
+
 
 
 <div align="center">
