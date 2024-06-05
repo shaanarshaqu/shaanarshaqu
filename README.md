@@ -2,7 +2,7 @@
 
 <div align="center"> 
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rock-32&theme=chartreuse-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shaanarshaqu&theme=chartreuse-dark)](https://git.io/streak-stats)
 </div>
 <div align="center">  
   
@@ -13,7 +13,7 @@
 </div>
 
 
-![Cool GIF](https://github.com/rock-32/rock-32/raw/main/AutoPlay.gif)
+![Cool GIF](https://github.com/shaanarshaqu/shaanarshaqu/raw/main/AutoPlay.gif)
 
 
 
@@ -24,12 +24,12 @@
 </div>
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rock-32&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaanarshaqu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
 
-   ![Footer](https://github.com/rock-32/rock-32/raw/main/footer.svg)
+   ![Footer](https://github.com/shaanarshaqu/shaanarshaqu/raw/main/footer.svg)
 
 
 <!--
