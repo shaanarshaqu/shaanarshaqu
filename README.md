@@ -29,7 +29,7 @@
 </div>
 
 
-   ![Footer](https://github.com/shaanarshaqu/shaanarshaqu/raw/main/footer.svg)
+   <!-- ![Footer](https://github.com/shaanarshaqu/shaanarshaqu/raw/main/footer.svg) -->
 
 
 <!--
