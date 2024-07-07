@@ -3,6 +3,7 @@
 <div align="center"> 
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shaanarshaqu&theme=chartreuse-dark)](https://git.io/streak-stats)
+![LeetCode Stats](https://leetcode.card.workers.dev/shaanarshaqu?theme=dark&font=source_code_pro&extension=null)
 </div>
 <div align="center">  
   
