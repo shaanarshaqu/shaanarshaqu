@@ -15,7 +15,7 @@
 
 <div align="center">
 
-  ![Description](https://github.com/shaanarshaqu/shaanarshaqu/raw/main/giphy.webp)
+  ![Description](https://github.com/shaanarshaqu/shaanarshaqu/raw/main/desk.gif)
   
 </div>
 
