@@ -13,10 +13,11 @@
 
 </div>
 
+<div align="center">
 
-![Cool GIF](https://github.com/shaanarshaqu/shaanarshaqu/raw/main/AutoPlay.gif)
-
-
+  ![Description](https://github.com/shaanarshaqu/shaanarshaqu/raw/main/giphy.webp)
+  
+</div>
 
 <div align="center">
   
