@@ -20,6 +20,11 @@
 </div>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaanarshaqu&show_icons=true&locale=en" alt="shaanarshaqu" />
+</div>
+
+
+<div align="center">
   
   [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,react,redux,js,html,css,bootstrap)](https://www.microsoft.com/en-in/download/details.aspx?id=30653)
   
