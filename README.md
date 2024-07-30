@@ -15,7 +15,9 @@
 
 - 🌱 I’m currently learning **Framework,React js,Dot Net Core**
 
-- 👨‍💻 All of my projects are available at [https://shaanarshaqu.github.io/Portfolio/](https://shaanarshaqu.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at GitHub
+
+- 😉 Check my Portfolio 😁 [https://shaanarshaqu.github.io/Portfolio/](https://shaanarshaqu.github.io/Portfolio/)
 
 - 💬 Ask me about **Programming Language, Tech-Stuff**
 
