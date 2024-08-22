@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **shaanarshaqu123@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uhgU17-pu7SyYAOnX7LOfBn8GDY0LGPH/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_z5dZkjvZvaIxNRiQbVOuCpINhkS2ccI/view?usp=sharing)
 
 <div align="center">  
   
