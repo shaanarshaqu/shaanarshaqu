@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on a CRM Project
 
-- 🌱 I’m currently learning **Framework,React js,Dot Net Core**
+- 🌱 I’m currently learning **Dot Net Core**
 
 - 👨‍💻 All of my projects are available at GitHub
 
