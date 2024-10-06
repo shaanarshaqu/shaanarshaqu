@@ -18,12 +18,16 @@
 
 - 📫 How to reach me **shaanarshaqu123@gmail.com**
 
-<div align="center">  
+<div>  
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shaan-arshaqu-13a16b290)](https://www.linkedin.com/in/shaan-arshaqu-13a16b290)
-  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shaan_arshaqu_/)](https://www.instagram.com/shaan_arshaqu_/)
-  [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/shaan.arshaqu)](https://www.facebook.com/shaan.arshaqu)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
+<a href="https://linkedin.com/in/shaan-arshaqu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/shaan_arshaqu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/shaanarshaqu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+<a href="https://www.facebook.com/shaan.arshaqu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+</p>
 </div>
 
 <table align="center">
@@ -37,14 +41,6 @@
   </tr>
 </table>
 <div align="center">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://linkedin.com/in/shaan-arshaqu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://instagram.com/shaan_arshaqu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/shaanarshaqu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-<a href="https://www.facebook.com/shaan.arshaqu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-</p>
 <!--
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; align-items: flex-start; align: center">
