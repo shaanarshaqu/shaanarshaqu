@@ -1,6 +1,6 @@
 # *Hi..it's me Shaan...* 👋😊  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaanarshaqu&label=Profile%20views&color=48822D&style=flat" alt="shaanarshaqu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaanarshaqu&label=Profile%20views&color=43782A&style=for-the-badge" alt="shaanarshaqu" /> </p>
 <h3>A Passionate And Aspiring Dot Net Developer From India</h3>
 
 
