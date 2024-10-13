@@ -1,7 +1,7 @@
 # *Hi..it's me Shaan...* 👋😊  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaanarshaqu&label=Profile%20views&color=0e75b6&style=flat" alt="shaanarshaqu" /> </p>
-<h3>A Passionate And Aspiring Dot Net Developer</h3>
+<h3>A Passionate And Aspiring Dot Net Developer From India</h3>
 
 
 <div> 
@@ -12,11 +12,11 @@
 </div>
 
 
-- ✨ I’m exploring **Dot Net Core**
+- ✨ Currently exploring **.NET Core**
+- 💻 Passionate about building scalable and efficient applications.
+- 🧑‍💻 Ask me anything about **.NET, Programming, or Software Development**.
 
-- 💬 Ask me about **.Net**
-
-- 📫 How to reach me **shaanarshaqu123@gmail.com**
+📫 Feel free to reach out: **shaanarshaqu123@gmail.com**
 
 <div>  
   
@@ -41,24 +41,20 @@
   </tr>
 </table>
 <div align="center">
-<!--
+
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <a href="#dotnet-core">
+        <img src="https://techstack-generator.vercel.app/dotnet-icon.svg" alt="icon" width="65" height="65" />
       </a>
-      <br>Python
+      <br>.NET Core
     </td>
     <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="62" height="62" />
-      <br>REST API
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
@@ -70,78 +66,57 @@
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="62" height="62" />
-      <br>Redux Toolkit
+      <br>Redux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
+        <img src="https://techstack-generator.vercel.app/sqlserver-icon.svg" alt="icon" width="65" height="65" />
+      <br>SQL Server
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"  />
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-      <br>Redis
-    </td>
-        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
+      <br>GitHub
     </td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-    <td align="center"  width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br>CSS3
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  /> 
-      <br>Material Ui
+       <img src="https://techstack-generator.vercel.app/swagger-icon.svg" alt="icon" width="62" height="62"  />
+      <br>Swagger
     </td>
-  </tr>
- <tr>
-      <td align="center" width="96">
-       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-      <br>Postman
-    </td>
-      <td align="center" width="96">
-       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-      <br>Figma
-    </td>
-      <td align="center" width="96">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-      <br>C
-    </td>
-      <td align="center" width="96">
-       <img src="https://github.com/THOUSI731/THOUSI731/assets/119723781/b7ea9dae-7907-48b2-a3fb-0673f4eff363" alt="icon" width="62" height="62"  />
-      <br>Swagger API
-    </td>
-      <td align="center" width="96">
+    <td align="center" width="96">
        <img src="http://jwt.io/img/icon.svg" alt="icon" width="62" height="62"  />
       <br>JWT
     </td>
-    <td>
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
+    <td align="center" width="96">
+       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="65" height="65" />
+      <br>Azure
     </td>
   </tr>
-</table> -->
+</table>
+
 </div>
 
 
